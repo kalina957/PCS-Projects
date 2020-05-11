@@ -1,0 +1,19 @@
+C:\Bert\pcs1 2019 febr\week 3\AppAboutFlashyColors\AppAboutFlashyColors\bin\Debug\AppAboutFlashyColors.exe.config
+C:\Bert\pcs1 2019 febr\week 3\AppAboutFlashyColors\AppAboutFlashyColors\bin\Debug\AppAboutFlashyColors.exe
+C:\Bert\pcs1 2019 febr\week 3\AppAboutFlashyColors\AppAboutFlashyColors\bin\Debug\AppAboutFlashyColors.pdb
+C:\Bert\pcs1 2019 febr\week 3\AppAboutFlashyColors\AppAboutFlashyColors\obj\Debug\AppAboutFlashyColors.csprojResolveAssemblyReference.cache
+C:\Bert\pcs1 2019 febr\week 3\AppAboutFlashyColors\AppAboutFlashyColors\obj\Debug\AppAboutFlashyColors.Form1.resources
+C:\Bert\pcs1 2019 febr\week 3\AppAboutFlashyColors\AppAboutFlashyColors\obj\Debug\AppAboutFlashyColors.Properties.Resources.resources
+C:\Bert\pcs1 2019 febr\week 3\AppAboutFlashyColors\AppAboutFlashyColors\obj\Debug\AppAboutFlashyColors.csproj.GenerateResource.Cache
+C:\Bert\pcs1 2019 febr\week 3\AppAboutFlashyColors\AppAboutFlashyColors\obj\Debug\AppAboutFlashyColors.exe
+C:\Bert\pcs1 2019 febr\week 3\AppAboutFlashyColors\AppAboutFlashyColors\obj\Debug\AppAboutFlashyColors.pdb
+C:\Users\User\Desktop\fontys\pcs1\AppAboutFlashyColors\AppAboutFlashyColors\bin\Debug\AppAboutFlashyColors.exe.config
+C:\Users\User\Desktop\fontys\pcs1\AppAboutFlashyColors\AppAboutFlashyColors\bin\Debug\AppAboutFlashyColors.exe
+C:\Users\User\Desktop\fontys\pcs1\AppAboutFlashyColors\AppAboutFlashyColors\bin\Debug\AppAboutFlashyColors.pdb
+C:\Users\User\Desktop\fontys\pcs1\AppAboutFlashyColors\AppAboutFlashyColors\obj\Debug\AppAboutFlashyColors.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\fontys\pcs1\AppAboutFlashyColors\AppAboutFlashyColors\obj\Debug\AppAboutFlashyColors.Form1.resources
+C:\Users\User\Desktop\fontys\pcs1\AppAboutFlashyColors\AppAboutFlashyColors\obj\Debug\AppAboutFlashyColors.Properties.Resources.resources
+C:\Users\User\Desktop\fontys\pcs1\AppAboutFlashyColors\AppAboutFlashyColors\obj\Debug\AppAboutFlashyColors.csproj.GenerateResource.cache
+C:\Users\User\Desktop\fontys\pcs1\AppAboutFlashyColors\AppAboutFlashyColors\obj\Debug\AppAboutFlashyColors.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\fontys\pcs1\AppAboutFlashyColors\AppAboutFlashyColors\obj\Debug\AppAboutFlashyColors.exe
+C:\Users\User\Desktop\fontys\pcs1\AppAboutFlashyColors\AppAboutFlashyColors\obj\Debug\AppAboutFlashyColors.pdb

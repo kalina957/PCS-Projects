@@ -1,0 +1,19 @@
+C:\Bert\pcs1 2019 febr\week 4\week 4 AppAboutDogRaces Final\AppAboutDogRaces\bin\Debug\AppAboutDogRaces.exe.config
+C:\Bert\pcs1 2019 febr\week 4\week 4 AppAboutDogRaces Final\AppAboutDogRaces\bin\Debug\AppAboutDogRaces.exe
+C:\Bert\pcs1 2019 febr\week 4\week 4 AppAboutDogRaces Final\AppAboutDogRaces\bin\Debug\AppAboutDogRaces.pdb
+C:\Bert\pcs1 2019 febr\week 4\week 4 AppAboutDogRaces Final\AppAboutDogRaces\obj\Debug\AppAboutDogRaces.csprojResolveAssemblyReference.cache
+C:\Bert\pcs1 2019 febr\week 4\week 4 AppAboutDogRaces Final\AppAboutDogRaces\obj\Debug\AppAboutDogRaces.Form1.resources
+C:\Bert\pcs1 2019 febr\week 4\week 4 AppAboutDogRaces Final\AppAboutDogRaces\obj\Debug\AppAboutDogRaces.Properties.Resources.resources
+C:\Bert\pcs1 2019 febr\week 4\week 4 AppAboutDogRaces Final\AppAboutDogRaces\obj\Debug\AppAboutDogRaces.csproj.GenerateResource.Cache
+C:\Bert\pcs1 2019 febr\week 4\week 4 AppAboutDogRaces Final\AppAboutDogRaces\obj\Debug\AppAboutDogRaces.exe
+C:\Bert\pcs1 2019 febr\week 4\week 4 AppAboutDogRaces Final\AppAboutDogRaces\obj\Debug\AppAboutDogRaces.pdb
+C:\Users\User\Desktop\fontys\pcs1\week 4 AppAboutDogRaces FINAL\AppAboutDogRaces\bin\Debug\AppAboutDogRaces.exe.config
+C:\Users\User\Desktop\fontys\pcs1\week 4 AppAboutDogRaces FINAL\AppAboutDogRaces\bin\Debug\AppAboutDogRaces.exe
+C:\Users\User\Desktop\fontys\pcs1\week 4 AppAboutDogRaces FINAL\AppAboutDogRaces\bin\Debug\AppAboutDogRaces.pdb
+C:\Users\User\Desktop\fontys\pcs1\week 4 AppAboutDogRaces FINAL\AppAboutDogRaces\obj\Debug\AppAboutDogRaces.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\fontys\pcs1\week 4 AppAboutDogRaces FINAL\AppAboutDogRaces\obj\Debug\AppAboutDogRaces.Form1.resources
+C:\Users\User\Desktop\fontys\pcs1\week 4 AppAboutDogRaces FINAL\AppAboutDogRaces\obj\Debug\AppAboutDogRaces.Properties.Resources.resources
+C:\Users\User\Desktop\fontys\pcs1\week 4 AppAboutDogRaces FINAL\AppAboutDogRaces\obj\Debug\AppAboutDogRaces.csproj.GenerateResource.cache
+C:\Users\User\Desktop\fontys\pcs1\week 4 AppAboutDogRaces FINAL\AppAboutDogRaces\obj\Debug\AppAboutDogRaces.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\fontys\pcs1\week 4 AppAboutDogRaces FINAL\AppAboutDogRaces\obj\Debug\AppAboutDogRaces.exe
+C:\Users\User\Desktop\fontys\pcs1\week 4 AppAboutDogRaces FINAL\AppAboutDogRaces\obj\Debug\AppAboutDogRaces.pdb
